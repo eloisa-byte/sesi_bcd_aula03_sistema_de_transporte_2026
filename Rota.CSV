@@ -1,0 +1,7 @@
+ROTA;;;;;
+id_rota;origem;destino;distancia_km;tempo_estimado;observação
+1;São Paulo;Campinas;100;01:40;Rota principal
+2;Campinas;Jundiaí;45;00:50;Rota curta
+3;Campinas;Sorocaba;85;01:30;Via Anhanguera
+4;São Paulo;Santos;75;01:20;Litoral
+5;Campinas;Limeira;60;01:00;Rota regional
