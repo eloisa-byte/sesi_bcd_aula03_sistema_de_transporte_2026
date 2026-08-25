@@ -32,7 +32,6 @@ Uma empresa de transporte deseja criar um sistema para gerenciar suas rotas e mo
 | Rota | tempo_estimado | varchar | 5 | Tempo estimado da rota |
 | Rota | observacao | varchar | 30 | Observação da rota |
 
-## MER Conceitual
 
 ## Dados de teste em CSV
 - [Motorista.csv](./Motorista.CSV)
